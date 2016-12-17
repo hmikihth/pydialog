@@ -6,7 +6,7 @@ QEncfs is a frontend to the EncFS encrypting utility
 
 Screenshot
 ----------
-![qencfs](https://raw.githubusercontent.com/blackPantherOS/playground/master/Qenfs/screenshot.png)
+![qencfs](https://raw.githubusercontent.com/blackPantherOS/playground/master/Qencfs/screenshot.png)
 
 
 Release
