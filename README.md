@@ -1,4 +1,4 @@
-[Original repo](https://github.com/blackPantherOS/playground)
+[Original repo](https://github.com/blackPantherOS/pydialog)
 
 Description: 
 ------------
